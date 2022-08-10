@@ -36,5 +36,5 @@ int main(){
     scanf("%d",&s);
     binarysearch(array,n,s);
 
-    returnv 0;
+    return 0;
 }
